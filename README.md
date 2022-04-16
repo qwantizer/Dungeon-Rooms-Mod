@@ -5,6 +5,8 @@ What it does:
 This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding. The hotkey to configure waypoints is "P" by default.
 
 Alternatively, you can also view images of the secret locations in the DSG Discord or with the SkyblockPersonalized Mod by pressing the hotkey "O" while in a room.
+![68747470733a2f2f6879706978656c2e6e65742f6174746163686d656e74732f323438313130352f](https://user-images.githubusercontent.com/103853618/163689135-f1d5c969-abb8-42a8-b132-aa608c66432c.png)
+
 
 Why is this useful?
 
@@ -24,12 +26,21 @@ O - Opens images of secret locations
 Commands:
 
 /room - Tells you in chat what room you are standing in.
+
 /room help - Displays this message in chat.
+
 /room waypoints - Opens Secret Waypoints config GUI, alternatively can be opened with hotkey
+
 /room move <x> <y> - Moves the GUI room name text to a coordinate. and are numbers between 0 and 100. (Default is 50 for <x> and 5 for <y>)
+
 /room toggle [argument] - Run "/room toggle help" for full list of toggles.
+
 /room set <gui | dsg | sbp> - Configure whether the hotkey opens the selector GUI or directly goes to DSG/SBP.
+ 
 /room discord - Opens the Discord invite for this mod in your browser.
+ 
 /room open - Opens the gui for opening either DSG or SBP.
+
 /room dsg - Directly opens DSG in the Discord client.
+  
 /room sbp - Directly opens the SBP secrets (if you have the mod installed).
